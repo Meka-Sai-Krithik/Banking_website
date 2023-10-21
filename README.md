@@ -1,4 +1,5 @@
-#Banking_website
+**#Banking_website**
+
 Our main objective is to create a simple dynamic website with the following specifications
 
 1.Create dummy data in database: We have used MYSQL to create database
