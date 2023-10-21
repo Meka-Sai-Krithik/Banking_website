@@ -9,5 +9,7 @@ Our main objective is to create a simple dynamic website with the following spec
 3.The flow should be like:
 
 Homepage-> view all customers->Select and view one customer-> Transfer money->Select customer to transfer to->view all customers
+
 No login page ,No user creation ,Only transfer of money between multiple users are required
+
 Post the website in free hosting website :We have used XAMM and hosted it on localhost
